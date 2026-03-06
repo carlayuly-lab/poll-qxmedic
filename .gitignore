@@ -1,0 +1,9 @@
+# Ignorar archivos temporales de Excel
+~$*
+*.tmp
+
+# Ignorar las imágenes generadas por la macro (no queremos subir resultados)
+/Imagenes/*
+
+# Ignorar archivos de configuración local
+/Config/*
